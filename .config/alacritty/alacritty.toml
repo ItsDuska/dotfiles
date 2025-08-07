@@ -1,0 +1,37 @@
+[font]
+normal.family = "Maple Mono"
+normal.style = "Regular"
+size = 18.0
+offset.x = 0
+offset.y = 1
+
+[colors.primary]
+background = "#1b2b23"    
+foreground = "#e0f2e9"
+
+[colors.normal]
+black   = "#1b2b1b"
+red     = "#d75f5f"
+green   = "#87af5f"
+yellow  = "#d7af5f"
+blue    = "#5f87af"
+magenta = "#af5faf"
+cyan    = "#5fafaf"
+white   = "#e0f2e9"
+
+[colors.bright]
+black   = "#3a4d3a"
+red     = "#ff8787"
+green   = "#a3d977"
+yellow  = "#ffe377"
+blue    = "#87c1ff"
+magenta = "#cfa3ff"
+cyan    = "#77dddd"
+white   = "#ffffff"
+
+[window]
+opacity = 0.8
+
+[window.padding]
+  x = 4
+  y = 4
