@@ -6,7 +6,7 @@ offset.x = 0
 offset.y = 1
 
 [colors.primary]
-background = "#1b2b23"    
+background = "#1b2b23"
 foreground = "#e0f2e9"
 
 [colors.normal]
